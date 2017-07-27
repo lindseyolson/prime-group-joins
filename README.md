@@ -2,5 +2,7 @@
 
 Practice with joining tables in SQL.
 
-### Authors: Lindsey Olson & Brett Miller
+### Authors: 
+Lindsey Olson & Brett Miller
+
 ###### 6/6/2017
